@@ -41,3 +41,13 @@ img {
 #headline {
   margin: 3.2rem 0;
 }
+
+ul {
+  max-width: 34.37rem;
+  margin: 0 auto 3.1rem auto;
+  text-align: left;
+}
+
+li {
+  margin: 1rem 0;
+}
