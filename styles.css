@@ -51,3 +51,14 @@ ul {
 li {
   margin: 1rem 0;
 }
+
+blockquote {
+  font-style: italic;
+  max-width: 34.06rem;
+  margin: 0 auto 3.1rem auto;
+  line-height: 1;
+}
+
+cite {
+  line-height: 2.5;
+}
