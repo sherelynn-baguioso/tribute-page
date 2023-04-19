@@ -1,0 +1,21 @@
+html {
+  font-size: 16px;
+}
+
+body {
+  font-family: Helvetica, sans-serif;
+  color: #363636;
+  line-height: 1.5;
+  text-align: center;
+}
+
+main {
+  margin: 1.87rem 0.5rem;
+  padding: 0.93rem;
+  border-radius: 0.31rem;
+  background: #ebebeb;
+}
+
+h1 {
+  margin-bottom: 0;
+}
